@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+<style>
+    div.tooltip {
+        position: absolute;
+        text-align: center;
+        width: 100px;
+        height: 100px;
+        padding: 2px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+        color: black;
+
+    }
+    strong{
+        color: forestgreen;
+    }
+</style>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <ul class="navbar-nav">
+        <li class="nav-item ">
+            <a class="nav-link" href="index.html">Globe</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" href="worldwikichoro.html">World Choropleth</a>
+        </li>
+        <li class="nav-item ">
+            <a class="nav-link" href="stackedbarchart.html">Bar Chart for Languages</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="networkgraph.html">Wikipedia Network</a>
+        </li>
+    </ul>
+</nav>
+<!-- Create an element where the map will take place -->
+<svg id="world" width="1400" height="800" >
+
+</svg>
+<script>
+
+    // The svg
+    var svg = d3.select("svg"),
+        width = +svg.attr("width"),
+        height = +svg.attr("height");
+
+    // Map and projection
+    var path = d3.geoPath();
+    var projection = d3.geoMercator()
+        .scale(100)
+        .center([0,20])
+        .translate([width / 2, height / 2]);
+
+    var tooltipDiv = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+    // Data and color scale
+    var data = d3.map();
+    var colorScale = d3.scaleThreshold()
+        .domain([0, 10, 20, 30, 40,50,60,70,80,90,100])
+        .range(d3.schemePuRd[7]);
+
+    // Load external data and boot
+    d3.queue()
+        .defer(d3.json, "world1.geojson")
+
+        .defer(d3.csv, "wikipediadata.csv", function(d) { data.set(d.country, d.percentage,); })
+        .await(ready);
+
+    function ready(error, topo) {
+
+        let mouseOver = function(d) {
+            d3.selectAll(".Country")
+                .transition()
+                .duration(200)
+                .style("opacity", .5)
+
+            d3.select(this)
+                .transition()
+                .duration(200)
+                .style("opacity", 1)
+                .style("stroke", "black")
+            tooltipDiv.transition()
+                .duration(200)
+                .style("opacity", .9);
+            tooltipDiv.html("<strong>country:</strong>"+ d.id +"<br>"+ "<strong>Percentage:</strong>" +  d.percentage+"<br>"+"<strong>Total views:</strong>" + d.totalviews
+                +"<br>"+"<strong>Perc of people connected:</strong>" + d.percpeopleconnected +"<br>"+"<strong>Population</strong>:" + d.population
+                )
+
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+        }
+
+        let mouseLeave = function(d) {
+            d3.selectAll(".Country")
+                .transition()
+                .duration(200)
+                .style("opacity", .8)
+            d3.select(this)
+                .transition()
+                .duration(200)
+                .style("stroke", "transparent")
+
+
+        }
+
+
+
+
+        // Draw the map
+        svg.append("g")
+            .selectAll("path")
+            .data(topo.features)
+            .enter()
+            .append("path")
+            // draw each country
+            .attr("d", d3.geoPath()
+                .projection(projection)
+            )
+            // set the color of each country
+            .attr("fill", function (d) {
+                d.total = data.get(d.id) || 0;
+                return colorScale(d.total);
+            })
+            .style("stroke", "transparent")
+            .attr("class", function(d){ return "Country" } )
+            .style("opacity", .8)
+            .on("mouseover", mouseOver )
+            .on("mouseleave", mouseLeave )
+    }
+
+</script>

@@ -1,0 +1,1149 @@
+[
+  {
+    "latitude": -4.8,
+    "longitude": -79.4,
+    "location": "San Andres",
+    "Date": "4/29/1995",
+    "type":  "A",
+    "duration":"06m37s",
+    "pathwidth": "196km",
+    "Eclipsetime": "17:33:20"
+  },
+  {
+    "latitude": 8.4,
+    "longitude": 113.2,
+    "location": "south China",
+    "Date": "10/24/1995",
+    "type":  "T",
+    "duration":"02m10s",
+    "pathwidth": "78km",
+    "Eclipsetime": "4:33:30"
+
+  },
+  {
+    "latitude": -71.3,
+    "longitude": -104,
+    "location": "Amundsen Sea",
+    "Date": "4/17/1996",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "22:38:12"
+
+  },
+  {
+    "latitude": 72,
+    "longitude": 32,
+    "location": "Barents Sea",
+    "Date": "10/12/1996",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "14:03:04"
+
+  },
+  {
+    "latitude": 57.8,
+    "longitude": 130.7,
+    "location": "Наслег Анамы",
+    "Date": "3/09/1997",
+    "type":  "T",
+    "duration":"02m50s",
+    "pathwidth": "356km",
+    "Eclipsetime": "1:24:51"
+
+  },
+  {
+    "latitude": -72.6,
+    "longitude": 114.99999972222223,
+    "location": "Antartica",
+    "Date": "9/02/1997",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "0:04:48"
+
+  },
+  {
+    "latitude": 4.7,
+    "longitude": -82.7,
+    "location": "Pacific Ocean",
+    "Date": "02/26/1998",
+    "type":  "T",
+    "duration":"04m09s",
+    "pathwidth": "151km",
+    "Eclipsetime": "17:29:27"
+
+  },
+  {
+    "latitude": -3,
+    "longitude": 145.4,
+    "location": "Manus, Papua New Guinea",
+    "Date": "08/22/1998",
+    "type":  "A",
+    "duration":"03m14s",
+    "pathwidth": "99km",
+    "Eclipsetime": "2:07:11"
+
+  },
+  {
+    "latitude": -39.8,
+    "longitude": 94.30000000000001,
+    "location": "Indian Ocean",
+    "Date": "02/16/1999",
+    "type":  "A",
+    "duration":"00m40s",
+    "pathwidth": "29km",
+    "Eclipsetime": "6:34:38"
+
+  },
+  {
+    "latitude": 45.1,
+    "longitude": 24.3,
+    "location": "Buda, Romania",
+    "Date": "08/11/1999",
+    "type":  "T",
+    "duration":"02m23s",
+    "pathwidth": "112km",
+    "Eclipsetime": "11:04:09"
+
+  },
+  {
+    "latitude": -70.2,
+    "longitude": 134.4,
+    "location": "Antartica",
+    "Date": "02/05/2000",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "12:50:27"
+
+  },
+  {
+    "latitude": -66.9,
+    "longitude": -109.9,
+    "location": "Amundsen Sea",
+    "Date": "07/01/2000",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "19:33:34"
+
+  },
+  {
+    "latitude": 69.5,
+    "longitude": -59.9,
+    "location": "Baffin Bay",
+    "Date": "07/31/2000",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "2:14:08"
+
+  },
+  {
+    "latitude": 66.3,
+    "longitude": -74.1,
+    "location": "NU, Canada",
+    "Date": "12/25/2000",
+    "type":  "P",
+    "duration":"-",
+    "pathwidth": "-",
+    "Eclipsetime": "17:35:57"
+
+  },
+  {
+    "latitude": -11.3,
+    "longitude": 2.7,
+    "location": "South Atlantic Ocean",
+    "Date": "06/21/2001",
+    "type":  "T",
+    "duration":"04m57s",
+    "pathwidth": "200km",
+    "Eclipsetime": "12:04:46"
+
+  },
+  {
+    "latitude": 0.6,
+    "longitude": -130.7,
+    "location": "Pacific Ocean",
+    "Date": "12/14/2001",
+    "Eclipsetime": "20:53:01",
+    "type":  "A",
+    "pathwidth": "126km",
+    "duration":"03m53s"
+  },
+  {
+    "latitude": 0.6,
+    "longitude": -130.7,
+    "location": "North Pacific",
+    "Date": "06/10/2002",
+    "Eclipsetime": "23:45:22",
+    "type":  "A",
+    "pathwidth": "13km",
+    "duration":"00m23s"
+  },
+  {
+    "latitude": -39.5,
+    "longitude": 59.6,
+    "location": "Indian Ocean",
+    "Date": "12/04/2002",
+    "Eclipsetime": "7:32:16",
+    "type":  "T",
+    "pathwidth": "87km",
+    "duration":"02m04s"
+  },
+  {
+    "latitude": 66.6,
+    "longitude": -24.5,
+    "location": "Denmark Strait",
+    "Date": "05/31/2003",
+    "Eclipsetime": "4:09:22",
+    "type":  "An",
+    "pathwidth": "-",
+    "duration":"03m37s"
+  },
+  {
+    "latitude": -72.7,
+    "longitude": 88.4,
+    "location": "Antarctica",
+    "Date": "11/23/2003",
+    "Eclipsetime": "22:50:22",
+    "type":  "T",
+    "pathwidth": "495km",
+    "duration":"01m57s"
+  },
+  {
+    "latitude": -61.57946554652238,
+    "longitude": 44.04157178764722,
+    "location": "Indian Ocean",
+    "Date": "04/19/2004",
+    "Eclipsetime": "13:35:05",
+    "type":  "P",
+    "pathwidth": "-",
+    "duration":"-"
+  },
+  {
+    "latitude": 61.2,
+    "longitude": -153.7,
+    "location": "Alaska, USA",
+    "Date": "10/14/2004",
+    "Eclipsetime": "3:00:23",
+    "type":  "P",
+    "pathwidth": "-",
+    "duration":"-"
+  },
+  {
+    "latitude": -10.6,
+    "longitude": -119,
+    "location": "Pacific Ocean",
+    "Date": "04/08/2005",
+    "Eclipsetime": "20:36:51",
+    "type":  "H",
+    "pathwidth": "27km",
+    "duration":"00m42s"
+  },
+  {
+    "latitude": 12.9,
+    "longitude": 28.7,
+    "location": "En Nuhud, Sudann",
+    "Date": "10/03/2005",
+    "Eclipsetime": "10:32:47",
+    "type":  "A",
+    "pathwidth": "162km",
+    "duration":"04m32s"
+  },
+  {
+    "latitude": 23.2,
+    "longitude": 16.7,
+    "location": "Murzuq, Libya",
+    "Date": "03/29/2006",
+    "Eclipsetime": "10:12:23",
+    "type":  "T",
+    "pathwidth": "184km",
+    "duration":"04m07s"
+  },
+  {
+    "latitude": -20.6,
+    "longitude": -9.1,
+    "location": "South Atlantic Ocean",
+    "Date": "10/22/2006",
+    "Eclipsetime": "11:41:16",
+    "type":  "A",
+    "pathwidth": "261km",
+    "duration":"07m09s"
+  },
+  {
+    "latitude": 61,
+    "longitude": 55.5,
+    "location": "Cherdynsky District, Russia",
+    "Date": "03/19/2007",
+    "Eclipsetime": "2:32:57",
+    "type":  "P",
+    "pathwidth": "-",
+    "duration":"-"
+  },
+  {
+    "latitude": -61,
+    "longitude": -90.2,
+    "location": "Chilean Sea",
+    "Date": "10/11/2007",
+    "Eclipsetime": "12:32:24",
+    "type":  "P",
+    "pathwidth": "-",
+    "duration":"-"
+  },
+  {
+    "latitude": -67.6,
+    "longitude": -150.5,
+    "location": "South Pacific Ocean",
+    "Date": "02/07/2008",
+    "Eclipsetime": "3:56:10",
+    "type":  "A",
+    "pathwidth": "444km",
+    "duration":"02m12s"
+  },
+  {
+    "latitude": 65.7,
+    "longitude": 72.3,
+    "location": "Nadymsky Rayon, Russia",
+    "Date": "08/01/2008",
+    "Eclipsetime": "10:22:12",
+    "type":  "T",
+    "pathwidth": "237km",
+    "duration":"02m27s"
+  },
+  {
+    "latitude": -34.1,
+    "longitude": 70.2,
+    "location": "Indian Ocean",
+    "Date": "01/26/2009",
+    "Eclipsetime": "7:59:45",
+    "type":  "A",
+    "pathwidth": "280km",
+    "duration":"07m54s"
+  },
+  {
+    "latitude": 24.2,
+    "longitude": 144.1,
+    "location": "Philippine Sea",
+    "Date": "07/22/2009",
+    "Eclipsetime": "2:36:25",
+    "type":  "T",
+    "pathwidth": "258km",
+    "duration":"06m39s"
+  },
+  {
+    "latitude": 1.6,
+    "longitude": 69.3,
+    "location": "Indian OCean",
+    "Date": "01/15/2010",
+    "Eclipsetime": "7:07:39",
+    "type":  "A",
+    "pathwidth": "333km",
+    "duration":"11m08s"
+  },
+  {
+    "latitude": -19.7,
+    "longitude": -121.9,
+    "location": "South Pacific",
+    "Date": "07/11/2010",
+    "Eclipsetime": "19:34:38",
+    "type":  "T",
+    "pathwidth": "259km",
+    "duration":"05m20s"
+  },
+  {
+    "latitude": 64.7,
+    "longitude": 20.8,
+    "location": "Mullbacka, Sweden",
+    "Date": "01/04/2011",
+    "Eclipsetime": "8:51:42",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 67.8,
+    "longitude": 46.8,
+    "location": "Zapolyarny District, Russia",
+    "Date": "06/01/2011",
+    "Eclipsetime": "21:17:18",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -65.2,
+    "longitude": 28.6,
+    "location": "Indian Ocean",
+    "Date": "07/01/2011",
+    "Eclipsetime": "8:39:30",
+    "type":  "Pb",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -68.6,
+    "longitude": -82.4,
+    "location": "Bellingshausen Sea",
+    "Date": "11/25/2011",
+    "Eclipsetime": "6:21:24",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 49.1,
+    "longitude": 176.3,
+    "location": "North Pacific",
+    "Date": "05/20/2012",
+    "Eclipsetime": "23:53:54",
+    "type":  "A",
+    "pathwidth": "237km",
+    "duration":"05m46s"
+  },
+  {
+    "latitude": -40.0,
+    "longitude": -161.3,
+    "location": "South Pacific",
+    "Date": "11/13/2012",
+    "Eclipsetime": "22:12:55",
+    "type":  "T",
+    "pathwidth": "179km",
+    "duration":"04m02s"
+  },
+  {
+    "latitude": 2.2,
+    "longitude": 175.5,
+    "location": "Pacific Ocean",
+    "Date": "05/10/2013",
+    "Eclipsetime": "0:26:20",
+    "type":  "A",
+    "pathwidth": "173km",
+    "duration":"06m03s"
+  },
+  {
+    "latitude": 3.5,
+    "longitude": -11.7,
+    "location": "North Atlantic Ocean",
+    "Date": "11/03/2013",
+    "Eclipsetime": "12:47:36",
+    "type":  "H3",
+    "pathwidth": "58km",
+    "duration":"01m40s"
+  },
+  {
+    "latitude": -70.6,
+    "longitude": 131.3,
+    "location": "Antarctica",
+    "Date": "04/29/2014",
+    "Eclipsetime": "6:04:33",
+    "type":  "A-",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 71.2,
+    "longitude": -97.2,
+    "location" :"NU, Canada",
+    "Date": "09/23/2014",
+    "Eclipsetime": "21:45:39",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 64.4,
+    "longitude": -6.6,
+    "location" :"Norwegian Sea",
+    "Date": "03/20/2015",
+    "Eclipsetime": "9:46:47",
+    "type":  "T",
+    "pathwidth": "463km",
+    "duration":"02m47s"
+  },
+  {
+    "latitude": -72.1,
+    "longitude": -2.3,
+    "location" :"Antarctica",
+    "Date": "09/20/2015",
+    "Eclipsetime": "6:55:19",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 10.1,
+    "longitude": 148.8,
+    "location" :"Pacific Ocean",
+    "Date": "03/09/2016",
+    "Eclipsetime": "1:58:19",
+    "type":  "T",
+    "pathwidth": "155km",
+    "duration":"04m09s"
+  },
+  {
+    "latitude": -10.7,
+    "longitude": 37.8,
+    "location" :"Lindi, Tanzania",
+    "Date": "09/01/2016",
+    "Eclipsetime": "9:08:02",
+    "type":  "A",
+    "pathwidth": "100km",
+    "duration":"03m06s"
+  },
+  {
+    "latitude": -34.7,
+    "longitude": -31.2,
+    "location" :"South Atlantic Ocean",
+    "Date": "02/26/2017",
+    "Eclipsetime": "14:54:33",
+    "type":  "A",
+    "pathwidth": "31km",
+    "duration":"00m44s"
+  },
+  {
+    "latitude": 37,
+    "longitude": -87.7,
+    "location" :"KY, USA",
+    "Date": "08/21/2017",
+    "Eclipsetime": "18:26:40",
+    "type":  "T",
+    "pathwidth": "115km",
+    "duration":"02m40s"
+  },
+  {
+    "latitude": -71,
+    "longitude": 0.6,
+    "location" :"South Atlantic Ocean",
+    "Date": "02/15/2018",
+    "Eclipsetime": "20:52:33",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -67.9,
+    "longitude": 127.4,
+    "location" :"Antarctica",
+    "Date": "07/13/2018",
+    "Eclipsetime": "3:02:16",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 70.4,
+    "longitude": 174.5,
+    "location" :"East Siberian Sea",
+    "Date": "08/11/2018",
+    "Eclipsetime": "9:47:28",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 67.4,
+    "longitude": 153.6,
+    "location" :"Ulus, Russia",
+    "Date": "01/06/2019",
+    "Eclipsetime": "1:42:38",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -17.4,
+    "longitude": -109,
+    "location" :"South Pacific",
+    "Date": "07/02/2019",
+    "Eclipsetime": "19:24:08",
+    "type":  "T",
+    "pathwidth": "201km",
+    "duration":"04m33s"
+  },
+  {
+    "latitude": 1,
+    "longitude": 102.3,
+    "location" :"Lukit, Indonesia",
+    "Date": "12/26/2019",
+    "Eclipsetime": "5:18:53",
+    "type":  "A",
+    "pathwidth": "118km",
+    "duration":"03m40s"
+  },
+  {
+    "latitude": 30.5,
+    "longitude": 79.7,
+    "location" :"Joshimath, India",
+    "Date": "06/21/2020",
+    "Eclipsetime": "6:41:15",
+    "type":  "Am",
+    "pathwidth": "21km",
+    "duration":"00m38s"
+  },
+  {
+    "latitude": -40.3,
+    "longitude": -67.9,
+    "location" :"Departamento Nueve de Julio, Argentina",
+    "Date": "12/14/2020",
+    "Eclipsetime": "16:14:39",
+    "type":  "T",
+    "pathwidth": "90km",
+    "duration":"02m10s"
+  },
+  {
+    "latitude": 80.8,
+    "longitude": -66.8,
+    "location" :"NU, Canada",
+    "Date": "06/10/2021",
+    "Eclipsetime": "10:43:07",
+    "type":  "A",
+    "pathwidth": "527km",
+    "duration":"03m51s"
+  },
+  {
+    "latitude": -76.8,
+    "longitude": -46.2,
+    "location" :"Weddell Sea",
+    "Date": "12/04/2021",
+    "Eclipsetime": "7:34:38",
+    "type":  "T",
+    "pathwidth": "419km",
+    "duration":"01m54s"
+  },
+  {
+    "latitude": -62.1,
+    "longitude": -71.5,
+    "location" :"Chilean Sea",
+    "Date": "04/30/2022",
+    "Eclipsetime": "20:42:36",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 61.6,
+    "longitude": 77.4,
+    "location" :"Nizhnevartovsky District, Russia",
+    "Date": "10/25/2022",
+    "Eclipsetime": "11:01:20",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -9.6,
+    "longitude": 125.8,
+    "location" :"Timor Sea",
+    "Date": "04/20/2023",
+    "Eclipsetime": "4:17:56",
+    "type":  "H",
+    "pathwidth": "49km",
+    "duration":"01m16s"
+  },
+  {
+    "latitude": 11.4,
+    "longitude": -83.1,
+    "location" :"Caribbean Sea",
+    "Date": "10/14/2023",
+    "Eclipsetime": "4:17:56",
+    "type":  "A",
+    "pathwidth": "187km",
+    "duration":"05m17s"
+  },
+  {
+    "latitude": 25.3,
+    "longitude": -104.1,
+    "location" :"Nazas, Mexico",
+    "Date": "04/08/2024",
+    "Eclipsetime": "18:18:29",
+    "type":  "T",
+    "pathwidth": "198km",
+    "duration":"04m28s"
+  },
+  {
+    "latitude": -22,
+    "longitude": -114.5,
+    "location" :"South Pacific",
+    "Date": "10/02/2024",
+    "Eclipsetime": "18:46:13",
+    "type":  "A",
+    "pathwidth": "266km",
+    "duration":"07m25s"
+  },
+  {
+    "latitude": 61.1,
+    "longitude": -77.1,
+    "location" :"QC, Canada",
+    "Date": "03/29/2025",
+    "Eclipsetime": "10:48:36",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -60.9,
+    "longitude": 153.5,
+    "location" :"South Pacific Ocean",
+    "Date": "09/21/2025",
+    "Eclipsetime": "19:43:04",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -64.7,
+    "longitude": 86.8,
+    "location" :"Indian Ocean",
+    "Date": "02/17/2026",
+    "Eclipsetime": "12:13:06",
+    "type":  "A",
+    "pathwidth": "616km",
+    "duration":"02m20s"
+  },
+  {
+    "latitude": 65.2,
+    "longitude": -25.2,
+    "location" :"Denmark Strait",
+    "Date": "08/12/2026",
+    "Eclipsetime": "17:47:06",
+    "type":  "T",
+    "pathwidth": "294km",
+    "duration":"02m18s"
+  },
+  {
+    "latitude": -31.3,
+    "longitude": -48.5,
+    "location" :"South Atlantic Ocean",
+    "Date": "02/06/2027",
+    "Eclipsetime": "16:00:48",
+    "type":  "A",
+    "pathwidth": "282km",
+    "duration":"07m51s"
+  },
+  {
+    "latitude": 25.5,
+    "longitude": 33.2,
+    "location" :"Qena Governorate, Egypt",
+    "Date": "08/02/2027",
+    "Eclipsetime": "10:07:50",
+    "type":  "T",
+    "pathwidth": "258km",
+    "duration":"06m23s"
+  },
+  {
+    "latitude": 3,
+    "longitude": -51.5,
+    "location" :" Amapá, Brazil",
+    "Date": "01/26/2028",
+    "Eclipsetime": "15:08:59",
+    "type":  "A",
+    "pathwidth": "323km",
+    "duration":"10m27s"
+  },
+  {
+    "latitude": -15.6,
+    "longitude": 126.7,
+    "location" :" Gibb,Australia",
+    "Date": "07/22/2028",
+    "Eclipsetime": "2:56:40",
+    "type":  "T",
+    "pathwidth": "230km",
+    "duration":"05m10s"
+  },
+  {
+    "latitude": 63.7,
+    "longitude": -114.2,
+    "location" :"NT, Canada",
+    "Date": "01/14/2029",
+    "Eclipsetime": "17:13:48",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 66.8,
+    "longitude": -66.2,
+    "location" :"NT, Canada",
+    "Date": "06/12/2029",
+    "Eclipsetime": "4:06:13",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 64.3,
+    "longitude": -85.6,
+    "location" :"NT, Canada",
+    "Date": "07/11/2029",
+    "Eclipsetime": "15:37:19",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -67.5,
+    "longitude": 135.7,
+    "location" :"Antarctica",
+    "Date": "12/05/2029",
+    "Eclipsetime": "15:03:58",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 56.5,
+    "longitude": 80.1,
+    "location" :"Severny District, Russia",
+    "Date": "06/01/2030",
+    "Eclipsetime": "6:29:13",
+    "type":  "A",
+    "pathwidth": "250km",
+    "duration":"05m21s"
+  },
+  {
+    "latitude": -43.6,
+    "longitude": 71.2,
+    "location" :"Indian Ocean",
+    "Date": "11/25/2030",
+    "Eclipsetime": "6:51:37",
+    "type":  "T",
+    "pathwidth": "169km",
+    "duration":"03m44s"
+  },
+  {
+    "latitude": 8.9,
+    "longitude": 71.7,
+    "location" :"Indian Ocean",
+    "Date": "05/21/2031",
+    "Eclipsetime": "7:16:04",
+    "type":  "A",
+    "pathwidth": "152km",
+    "duration":"05m26s"
+  },
+  {
+    "latitude": -0.6,
+    "longitude": -137.6,
+    "location" :"Pacific Ocean",
+    "Date": "11/14/2031",
+    "Eclipsetime": "21:07:31",
+    "type":  "H",
+    "pathwidth": "38km",
+    "duration":"01m08s"
+  },
+  {
+    "latitude": -51.3,
+    "longitude": -7.1,
+    "location" :"South Atlantic Ocean",
+    "Date": "05/09/2032",
+    "Eclipsetime": "13:26:42",
+    "type":  "A",
+    "pathwidth": "44km",
+    "duration":"00m22s"
+  },
+  {
+    "latitude": 70.4,
+    "longitude": 132.6,
+    "location" :"Ust-Yansky Ulus, Russia",
+    "Date": "11/03/2032",
+    "Eclipsetime": "5:34:13",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 70.4,
+    "longitude": 132.6,
+    "location" :"Ust-Yansky Ulus, Russia",
+    "Date": "11/03/2032",
+    "Eclipsetime": "5:34:13",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 71.3,
+    "longitude": -155.8,
+    "location" :"Alaska, USA",
+    "Date": "03/30/2033",
+    "Eclipsetime": "18:02:36",
+    "type":  "T",
+    "pathwidth": "781km",
+    "duration":"02m37s"
+  },
+  {
+    "latitude": -72.2,
+    "longitude": -121.2,
+    "location" :"Amundsen Sea",
+    "Date": "09/23/2033",
+    "Eclipsetime": "13:54:31",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 16.1,
+    "longitude": 22.2,
+    "location" :"East Ennedi, Chad",
+    "Date": "03/20/2034",
+    "Eclipsetime": "10:18:45",
+    "type":  "T",
+    "pathwidth": "159km",
+    "duration":"04m09s"
+  },
+  {
+    "latitude": -18.2,
+    "longitude": -72.6,
+    "location" :"Peru",
+    "Date": "09/12/2034",
+    "Eclipsetime": "16:19:28",
+    "type":  "A",
+    "pathwidth": "102km",
+    "duration":"02m58s"
+  },
+  {
+    "latitude": -29,
+    "longitude": -154.9,
+    "location" :"South Pacific",
+    "Date": "03/09/2035",
+    "Eclipsetime": "23:05:54",
+    "type":  "A",
+    "pathwidth": "31km",
+    "duration":"00m48s"
+  },
+  {
+    "latitude": 29.1,
+    "longitude": 158,
+    "location" :"North Pacific",
+    "Date": "09/02/2035",
+    "Eclipsetime": "1:56:46",
+    "type":  "T",
+    "pathwidth": "116km",
+    "duration":"02m54s"
+  },
+  {
+    "latitude": -71.6,
+    "longitude": -131.4,
+    "location" :"South Pacific Ocean",
+    "Date": "02/27/2036",
+    "Eclipsetime": "4:46:49",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -68.9,
+    "longitude": 3.6,
+    "location" :"South Atlantic Ocean",
+    "Date": "07/23/2036",
+    "Eclipsetime": "10:32:06",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 71.1,
+    "longitude": 47.6,
+    "location" :"Barents Sea",
+    "Date": "08/21/2036",
+    "Eclipsetime": "17:25:45",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 68.5,
+    "longitude": 20.8,
+    "location" :"Norrbotten County, Sweden",
+    "Date": "01/16/2037",
+    "Eclipsetime": "9:48:55",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -24.8,
+    "longitude": 139.1,
+    "location" :"Queensland, Australia",
+    "Date": "07/13/2037",
+    "Eclipsetime": "2:40:36",
+    "type":  "T",
+    "pathwidth": "201km",
+    "duration":"03m58s"
+  },
+  {
+    "latitude": 2.1,
+    "longitude": -25.4,
+    "location" :"North Atlantic Ocean",
+    "Date": "01/05/2038",
+    "Eclipsetime": "13:47:11",
+    "type":  "A",
+    "pathwidth": "107km",
+    "duration":"03m18s"
+  },
+  {
+    "latitude": 25.4,
+    "longitude": -21.9,
+    "location" :"North Atlantic Ocean",
+    "Date": "07/02/2038",
+    "Eclipsetime": "13:32:55",
+    "type":  "A",
+    "pathwidth": "31km",
+    "duration":"01m00s"
+  },
+  {
+    "latitude": -40.3,
+    "longitude": 164,
+    "location" :"Tasman Sea",
+    "Date": "12/26/2038",
+    "Eclipsetime": "1:00:10",
+    "type":  "T",
+    "pathwidth": "95km",
+    "duration":"02m18s"
+  },
+  {
+    "latitude": 78.9,
+    "longitude": -102.1,
+    "location" :"NU, Canada",
+    "Date": "06/21/2039",
+    "Eclipsetime": "17:12:54",
+    "type":  "A",
+    "pathwidth": "365km",
+    "duration":"04m05s"
+  },
+  {
+    "latitude": -80.9,
+    "longitude": 172.8,
+    "location" :"Rose Ice Shelf",
+    "Date": "12/12/2039",
+    "Eclipsetime": "16:23:46",
+    "type":  "T",
+    "pathwidth": "380km",
+    "duration":"01m51s"
+  },
+  {
+    "latitude": -62.8,
+    "longitude": 174.4,
+    "location" :"South Pacific OCean",
+    "Date": "05/11/2040",
+    "Eclipsetime": "3:43:02",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": 62.2,
+    "longitude": -53.4,
+    "location" :"Davis Strait",
+    "Date": "11/04/2040",
+    "Eclipsetime": "19:09:02",
+    "type":  "P",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -9.6,
+    "longitude": 12.2,
+    "location" :"South Atlantic Ocean",
+    "Date": "04/30/2041",
+    "Eclipsetime": "11:52:21",
+    "type":  "T",
+    "pathwidth": "72km",
+    "duration":"01m51s"
+  },
+  {
+    "latitude": 9.9,
+    "longitude": 162.9,
+    "location" :"Pacific Ocean",
+    "Date": "10/25/2041",
+    "Eclipsetime": "1:36:22",
+    "type":  "A",
+    "pathwidth": "213km",
+    "duration":"06m07s"
+  },
+  {
+    "latitude": 27,
+    "longitude": 137.3,
+    "location" :"Philippine Sea",
+    "Date": "04/20/2042",
+    "Eclipsetime": "2:17:30",
+    "type":  "T",
+    "pathwidth": "210km",
+    "duration":"04m51s"
+  },
+  {
+    "latitude": -23.7,
+    "longitude": 137.8,
+    "location" :"Central Desert Region, Australia",
+    "Date": "10/14/2042",
+    "Eclipsetime": "2:00:42",
+    "type":  "A",
+    "pathwidth": "273km",
+    "duration":"07m44s"
+  },
+  {
+    "latitude": 61.3,
+    "longitude": 152,
+    "location" :"Khasynsky Urban District, Russia",
+    "Date": "04/09/2043",
+    "Eclipsetime": "18:57:49",
+    "type":  "T+",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -61,
+    "longitude": 35.3,
+    "location" :"Indian Ocean",
+    "Date": "10/03/2043",
+    "Eclipsetime": "3:01:49",
+    "type":  "A-",
+    "pathwidth": "-km",
+    "duration":"-"
+  },
+  {
+    "latitude": -62.5,
+    "longitude": -25.6,
+    "location" :"South Atlantic Ocean",
+    "Date": "02/28/2044",
+    "Eclipsetime": "20:24:40",
+    "type":  "As",
+    "pathwidth": "-km",
+    "duration":"02m27s"
+  },
+  {
+    "latitude": 64.3,
+    "longitude": -120.4,
+    "location" :"NT, Canada",
+    "Date": "08/23/2044",
+    "Eclipsetime": "1:17:02",
+    "type":  "T",
+    "pathwidth": "453km",
+    "duration":"02m04s"
+  },
+  {
+    "latitude": -28.3,
+    "longitude": -166.2,
+    "location" :"South Pacific",
+    "Date": "02/16/2045",
+    "Eclipsetime": "23:56:07",
+    "type":  "A",
+    "pathwidth": "281km",
+    "duration":"07m47s"
+  },
+  {
+    "latitude": 25.9,
+    "longitude": -78.5,
+    "location" :"The Bahamas",
+    "Date": "08/12/2045",
+    "Eclipsetime": "17:42:39",
+    "type":  "T",
+    "pathwidth": "256km",
+    "duration":"06m06s"
+  }
+
+
+
+]

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+<script src="https://cdn.jsdelivr.net/npm/d3@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson@3"></script>
+<script src="https://cdn.jsdelivr.net/npm/versor@0.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-inertia@0.1"></script>
+<script>
+
+    var width = 960,
+        height = 500;
+    var locations=d3.csv("locations-eclipse.csv",function (d){
+
+    })
+
+    var projection = d3.geoOrthographic();
+
+    var canvas = d3.select("body").append("canvas")
+        .attr("width", width)
+        .attr("height", height);
+
+    var context = canvas.node().getContext("2d");
+
+    var path = d3.geoPath()
+        .projection(projection)
+        .context(context);
+
+    // rendering function to be populated when the features are loaded
+    var render = function(){};
+
+    // inertia versor dragging
+    var inertia = d3.geoInertiaDrag(canvas, function() { render(); }, projection);
+
+
+    d3.json("https://cdn.jsdelivr.net/npm/world-atlas@1/world/110m.json").then(function(world) {
+
+
+        var land = topojson.feature(world, world.objects.land);
+
+        render = function() {
+            context.clearRect(0, 0, width, height);
+
+            context.beginPath();
+            path(land);
+            context.fill();
+
+            context.strokeStyle = 'black';
+            context.beginPath();
+            path({type:"Sphere"});
+            context.lineWidth = 2.5;
+            context.stroke();
+
+            // draw a red line showing current inertia
+            if (typeof inertia == 'object') {
+                context.beginPath();
+                context.moveTo(
+                    inertia.position[0] + inertia.velocity[0] / 10,
+                    inertia.position[1] + inertia.velocity[1] / 10
+                );
+                context.lineTo(
+                    inertia.position[0] + inertia.velocity[0] * inertia.t / 10,
+                    inertia.position[1] + inertia.velocity[1] * inertia.t / 10
+                );
+                context.strokeStyle = "red";
+                context.stroke();
+            }
+
+            var p = projection.rotate().map(d => Math.floor(10*d)/10);
+            context.fillText(`λ = ${p[0]}, φ = ${p[1]}, γ = ${p[2]}`, 10, 10 )
+        };
+
+        render();
+
+
+    });
+
+
+
+    d3.select(self.frameElement).style("height", height + "px");
+
+    drawMarkers();
+    function drawMarkers() {
+        const markers = markerGroup.selectAll('circle')
+            .data(locations);
+
+
+
+        markers
+            .enter()
+            .append('circle')
+            .merge(markers)
+            .attr('cx', d => projection([d.longitude, d.latitude])[0])
+            .attr('cy', d => projection([d.longitude, d.latitude])[1])
+            .attr('fill', d => {
+                const coordinate = [d.longitude, d.latitude];
+                gdistance = d3.geoDistance(coordinate, projection.invert(center));
+                return gdistance > 1.57 ? 'none' : 'steelblue';
+
+            })
+            .on("mouseover", function(d) {
+                div.transition()
+                    .duration(30)
+                    .style("opacity", .9);
+
+                div .html(d.location +"<br>" +"Type:" + d.type +"<br>"+ "Date:" +d.Date +"<br>"+ "Duration:" +d.duration +"<br>"+ "path width:" +d.pathwidth +"<br>"+ "Eclipse time:" +d.Eclipsetime)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+                timer.stop()
+
+
+            })
+            .on("mouseout", function(d) {
+                div.transition()
+
+                    .style("opacity", 0);
+                enableRotation();
+            })
+
+            .attr('r', 7);
+
+
+
+
+        markerGroup.each(function () {
+            this.parentNode.appendChild(this);
+        });
+
+
+
+
+    }
+
+
+</script>

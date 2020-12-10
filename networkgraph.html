@@ -1,0 +1,102 @@
+<html>
+<head>
+    <title>Drawing a simple network without filtering</title>
+    <meta charset="utf-8" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<style>
+    svg {
+        height: 100%;
+        width: 100%;
+        border: 1px solid gray;
+        align-content: center;
+    }
+</style>
+<body>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <ul class="navbar-nav">
+        <li class="nav-item ">
+            <a class="nav-link" href="index.html">Globe</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="worldwikichoro.html">World Choropleth</a>
+        </li>
+        <li class="nav-item ">
+            <a class="nav-link" href="stackedbarchart.html">Bar Chart for Languages</a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link " href="networkgraph.html">Wikipedia Network</a>
+        </li>
+    </ul>
+</nav>
+
+<div id="graph">
+    <svg>
+    </svg>
+</div>
+</body>
+<footer>
+    <script>
+
+        d3.csv("networkgraph.csv",function(error,data) {network(data)});
+
+        function network(data) {
+
+            var nh = {};
+            var nodes_circle = [];
+            var edges_lines = [];
+
+            data.forEach(function (d) {
+                if (!nh[d.source]) {
+                    nh[d.source] = {id: d.source, label: d.source};
+                    nodes_circle.push(nh[d.source]);
+                }
+                if (!nh[d.target]) {
+                    nh[d.target] = {id: d.target, label: d.target};
+                    nodes_circle.push(nh[d.target]);
+                }
+                edges_lines.push({source: nh[d.source], target: nh[d.target], weight: d.weight});
+            });
+
+            var network_graph = d3.layout.force().nodes(nodes_circle).links(edges_lines)
+                .size([800,800])
+                .charge(-6)
+                .linkDistance(20)
+                .on("tick", updateNetwork);
+
+            d3.select("svg").selectAll("line")
+                .data(edges_lines)
+                .enter()
+                .append("line")
+                .style("stroke-width", "1px")
+                .style("stroke", " #E8C8E3");
+
+            d3.select("svg").selectAll("circle")
+                .data(nodes_circle)
+                .enter()
+                .append("circle")
+                .style("fill", "#8D6B87")
+                .attr("r", 2.5);
+
+            network_graph.start();
+
+            function updateNetwork() {
+                d3.select("svg").selectAll("line")
+                    .attr("x1", function (d) {return d.source.x})
+                    .attr("x2", function (d) {return d.target.x})
+                    .attr("y1", function (d) {return d.source.y})
+                    .attr("y2", function (d) {return d.target.y});
+
+                d3.select("svg").selectAll("circle")
+                    .attr("cx", function (d) {return d.x})
+                    .attr("cy", function (d) {return d.y});
+            }
+
+
+
+        }
+    </script>
+</footer>
+
+</html>

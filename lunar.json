@@ -1,0 +1,1039 @@
+[
+
+  {
+    "Date": "1995 April 15",
+    "Eclipse Time": "12:19:04",
+    "Eclipse Type": "P",
+    "Location": "South Pacific",
+    "Latitude": "-11",
+    "Longitude": "175",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1995 October 8",
+    "Eclipse Time": "16:05:12",
+    "Eclipse Type": "N",
+    "Location": "South China Sea",
+    "Latitude": "7",
+    "Longitude": "116",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1996 April 4",
+    "Eclipse Time": "0:10:47",
+    "Eclipse Type": "T-",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-6",
+    "Longitude": "-2",
+    "Total Eclipse Duration (m)": 85.8
+  },
+  {
+    "Date": "1996 September 27",
+    "Eclipse Time": "2:55:24",
+    "Eclipse Type": "T",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "2",
+    "Longitude": "-46",
+    "Total Eclipse Duration (m)": 69.2
+  },
+  {
+    "Date": "1997 March 24",
+    "Eclipse Time": "4:40:28",
+    "Eclipse Type": "P",
+    "Location": "São Gabriel da Cachoeira - AM, 69750-000, Brazil",
+    "Latitude": "-1",
+    "Longitude": "-68",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1997 September 16",
+    "Eclipse Time": "18:47:42",
+    "Eclipse Type": "T",
+    "Location": "Indian Ocean",
+    "Latitude": "-3",
+    "Longitude": "77",
+    "Total Eclipse Duration (m)": 61.5
+  },
+  {
+    "Date": "1998 March 13",
+    "Eclipse Time": "4:21:08",
+    "Eclipse Type": "N",
+    "Location": "Amajari, Amajari - RR, 69343-000, Brazil",
+    "Latitude": "4",
+    "Longitude": "-62",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1998 August 8",
+    "Eclipse Time": "2:25:57",
+    "Eclipse Type": "N",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-15",
+    "Longitude": "-35",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1998 September 6",
+    "Eclipse Time": "11:11:11",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "-7",
+    "Longitude": "-168",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1999 January 31",
+    "Eclipse Time": "16:18:35",
+    "Eclipse Type": "Nx",
+    "Location": "South China Sea",
+    "Latitude": "16",
+    "Longitude": "119",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "1999 July 28",
+    "Eclipse Time": "11:34:46",
+    "Eclipse Type": "P",
+    "Location": "South Pacific",
+    "Latitude": "-18",
+    "Longitude": "-172",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2000 January 21",
+    "Eclipse Time": "4:44:34",
+    "Eclipse Type": "T",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "20",
+    "Longitude": "-68",
+    "Total Eclipse Duration (m)": 77
+  },
+  {
+    "Date": "2000 July 16",
+    "Eclipse Time": "13:56:39",
+    "Eclipse Type": "T+",
+    "Location": "Coral Sea",
+    "Latitude": "-21",
+    "Longitude": "153",
+    "Total Eclipse Duration (m)": 106.4
+  },
+  {
+    "Date": "2001 January 9",
+    "Eclipse Time": "20:21:40",
+    "Eclipse Type": "T",
+    "Location": "Ad Dakhiliyah Governorate, Oman",
+    "Latitude": "22",
+    "Longitude": "57",
+    "Total Eclipse Duration (m)": 61
+  },
+  {
+    "Date": "2001 July 5",
+    "Eclipse Time": "14:56:23",
+    "Eclipse Type": "P",
+    "Location": "Northern Territory, Anatye, Central Desert Region, Australia",
+    "Latitude": "-23",
+    "Longitude": "137",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2001 December 30",
+    "Eclipse Time": "10:30:22",
+    "Eclipse Type": "N",
+    "Location": "North Pacific",
+    "Latitude": "24",
+    "Longitude": "-157",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2002 May 26",
+    "Eclipse Time": "12:04:26",
+    "Eclipse Type": "N",
+    "Location": "South Pacific",
+    "Latitude": "-20",
+    "Longitude": "179",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2002 June 24",
+    "Eclipse Time": "21:28:13",
+    "Eclipse Type": "N",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-25",
+    "Longitude": "-39",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2002 November 20",
+    "Eclipse Time": "1:47:40",
+    "Eclipse Type": "N",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "19",
+    "Longitude": "-30",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2003 May 16",
+    "Eclipse Time": "3:41:13",
+    "Eclipse Type": "T",
+    "Location": "Nhecolândia, Corumbá, Região Geográfica Intermediária de Corumbá, Brazil",
+    "Latitude": "-19",
+    "Longitude": "-56",
+    "Total Eclipse Duration (m)": 51.4
+  },
+  {
+    "Date": "2003 November 9",
+    "Eclipse Time": "1:19:38",
+    "Eclipse Type": "T",
+    "Location": "Cape Verde",
+    "Latitude": "16",
+    "Longitude": "-24",
+    "Total Eclipse Duration (m)": 22
+  },
+  {
+    "Date": "2004 May 4",
+    "Eclipse Time": "20:31:17",
+    "Eclipse Type": "T",
+    "Location": "Indian Ocean",
+    "Latitude": "-17",
+    "Longitude": "51",
+    "Total Eclipse Duration (m)": 75.5
+  },
+  {
+    "Date": "2004 October 28",
+    "Eclipse Time": "3:05:11",
+    "Eclipse Type": "T",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "13",
+    "Longitude": "-50",
+    "Total Eclipse Duration (m)": 80.5
+  },
+  {
+    "Date": "2005 April 24",
+    "Eclipse Time": "9:55:55",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "-14",
+    "Longitude": "-150",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2005 October 17",
+    "Eclipse Time": "12:04:27",
+    "Eclipse Type": "P",
+    "Location": "Pacific Ocean",
+    "Latitude": "10",
+    "Longitude": "175",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2006 March 14",
+    "Eclipse Time": "23:48:34",
+    "Eclipse Type": "Nx",
+    "Location": "Gulf of Guinea",
+    "Latitude": "3",
+    "Longitude": "6",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2006 September 7",
+    "Eclipse Time": "18:52:25",
+    "Eclipse Type": "P",
+    "Location": "Indian Ocean",
+    "Latitude": "-7",
+    "Longitude": "77",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2007 March 3",
+    "Eclipse Time": "23:21:59",
+    "Eclipse Type": "T",
+    "Location": "D19, Martap, Cameroon",
+    "Latitude": "7",
+    "Longitude": "13",
+    "Total Eclipse Duration (m)": 73.4
+  },
+  {
+    "Date": "2007 August 28",
+    "Eclipse Time": "10:38:27",
+    "Eclipse Type": "T-",
+    "Location": "Pacific Ocean",
+    "Latitude": "-10",
+    "Longitude": "-159",
+    "Total Eclipse Duration (m)": 90
+  },
+  {
+    "Date": "2008 February 21",
+    "Eclipse Time": "3:27:09",
+    "Eclipse Type": "T",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "10",
+    "Longitude": "-48",
+    "Total Eclipse Duration (m)": 49.8
+  },
+  {
+    "Date": "2008 August 16",
+    "Eclipse Time": "21:11:12",
+    "Eclipse Type": "P",
+    "Location": "Mozambique Channel",
+    "Latitude": "-13",
+    "Longitude": "43",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2009 February 9",
+    "Eclipse Time": "14:39:22",
+    "Eclipse Type": "N",
+    "Location": "Philippine Sea",
+    "Latitude": "14",
+    "Longitude": "144",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2009 July 7",
+    "Eclipse Time": "9:39:43",
+    "Eclipse Type": "N",
+    "Location": "South Pacific",
+    "Latitude": "-24",
+    "Longitude": "-143",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2009 August 6",
+    "Eclipse Time": "0:40:18",
+    "Eclipse Type": "N",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-16",
+    "Longitude": "-9",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2009 December 31",
+    "Eclipse Time": "19:23:46",
+    "Eclipse Type": "P",
+    "Location": "Kachchh, India",
+    "Latitude": "24",
+    "Longitude": "70",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2010 June 26",
+    "Eclipse Time": "11:39:34",
+    "Eclipse Type": "P",
+    "Location": "South Pacific",
+    "Latitude": "-24",
+    "Longitude": "-174",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2010 December 21",
+    "Eclipse Time": "8:18:04",
+    "Eclipse Type": "T",
+    "Location": "North Pacific",
+    "Latitude": "24",
+    "Longitude": "-125",
+    "Total Eclipse Duration (m)": 72.3
+  },
+  {
+    "Date": "2011 June 15",
+    "Eclipse Time": "20:13:43",
+    "Eclipse Type": "T+",
+    "Location": "Indian Ocean",
+    "Latitude": "-23",
+    "Longitude": "57",
+    "Total Eclipse Duration (m)": 100.2
+  },
+  {
+    "Date": "2011 December 10",
+    "Eclipse Time": "14:32:56",
+    "Eclipse Type": "T",
+    "Location": "Philippine Sea",
+    "Latitude": "23",
+    "Longitude": "140",
+    "Total Eclipse Duration (m)": 51.1
+  },
+  {
+    "Date": "2012 June 4",
+    "Eclipse Time": "11:04:20",
+    "Eclipse Type": "P",
+    "Location": "South Pacific",
+    "Latitude": "-22",
+    "Longitude": "-166",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2012 November 28",
+    "Eclipse Time": "14:34:07",
+    "Eclipse Type": "N",
+    "Location": "Philippine Sea",
+    "Latitude": "20",
+    "Longitude": "139",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2013 April 25",
+    "Eclipse Time": "20:08:38",
+    "Eclipse Type": "P",
+    "Location": "Indian Ocean",
+    "Latitude": "-14",
+    "Longitude": "57",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2013 May 25",
+    "Eclipse Time": "4:11:06",
+    "Eclipse Type": "Nb",
+    "Location": "Municipio Charagua, Provincia Cordillera, Bolivia",
+    "Latitude": "-19",
+    "Longitude": "-63",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2013 October 18",
+    "Eclipse Time": "23:51:25",
+    "Eclipse Type": "N",
+    "Location": "Leo, Sissili, Burkina Faso",
+    "Latitude": "11",
+    "Longitude": "-2",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2014 April 15",
+    "Eclipse Time": "7:46:48",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "-10",
+    "Longitude": "-116",
+    "Total Eclipse Duration (m)": 77.8
+  },
+  {
+    "Date": "2014 October 8",
+    "Eclipse Time": "10:55:44",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "6",
+    "Longitude": "-167",
+    "Total Eclipse Duration (m)": 58.8
+  },
+  {
+    "Date": "2015 April 4",
+    "Eclipse Time": "12:01:24",
+    "Eclipse Type": "T",
+    "Location": "South Pacific",
+    "Latitude": "-5",
+    "Longitude": "-179",
+    "Total Eclipse Duration (m)": 4.7
+  },
+  {
+    "Date": "2015 September 28",
+    "Eclipse Time": "2:48:17",
+    "Eclipse Type": "T",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "2",
+    "Longitude": "-44",
+    "Total Eclipse Duration (m)": 71.9
+  },
+  {
+    "Date": "2016 March 23",
+    "Eclipse Time": "11:48:21",
+    "Eclipse Type": "N",
+    "Location": "South Pacific",
+    "Latitude": "0",
+    "Longitude": "-175",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2016 September 16",
+    "Eclipse Time": "18:55:27",
+    "Eclipse Type": "N",
+    "Location": "Indian Ocean",
+    "Latitude": "-3",
+    "Longitude": "75",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2017 February 11",
+    "Eclipse Time": "0:45:03",
+    "Eclipse Type": "N",
+    "Location": "RN3, Kati Cercle, Mali",
+    "Latitude": "13",
+    "Longitude": "-8",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2017 August 7",
+    "Eclipse Time": "18:21:38",
+    "Eclipse Type": "P",
+    "Location": "Indian Ocean",
+    "Latitude": "-15",
+    "Longitude": "86",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2018 January 31",
+    "Eclipse Time": "13:31:00",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "17",
+    "Longitude": "161",
+    "Total Eclipse Duration (m)": 76.1
+  },
+  {
+    "Date": "2018 July 27",
+    "Eclipse Time": "20:22:54",
+    "Eclipse Type": "T+",
+    "Location": "Indian Ocean",
+    "Latitude": "-19",
+    "Longitude": "56",
+    "Total Eclipse Duration (m)": 103
+  },
+  {
+    "Date": "2019 January 21",
+    "Eclipse Time": "5:13:27",
+    "Eclipse Type": "T",
+    "Location": "San Antonio del Sur, Guantánamo, Cuba",
+    "Latitude": "20",
+    "Longitude": "-75",
+    "Total Eclipse Duration (m)": 62
+  },
+  {
+    "Date": "2019 July 16",
+    "Eclipse Time": "21:31:55",
+    "Eclipse Type": "P",
+    "Location": "Mozambique Channel",
+    "Latitude": "-22",
+    "Longitude": "39",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2020 January 10",
+    "Eclipse Time": "19:11:11",
+    "Eclipse Type": "N",
+    "Location": "Dahod District, - 389175, Gujarat, India",
+    "Latitude": "23",
+    "Longitude": "74",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2020 June 5",
+    "Eclipse Time": "19:26:14",
+    "Eclipse Type": "N",
+    "Location": "Indian Ocean",
+    "Latitude": "-21",
+    "Longitude": "69",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2020 July 5",
+    "Eclipse Time": "4:31:12",
+    "Eclipse Type": "N",
+    "Location": "Municipio de Campo Quijano, Rosario de Lerma, Argentina",
+    "Latitude": "-24",
+    "Longitude": "-66",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2020 November 30",
+    "Eclipse Time": "9:44:01",
+    "Eclipse Type": "N",
+    "Location": "North Pacific",
+    "Latitude": "21",
+    "Longitude": "-148",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2021 May 26",
+    "Eclipse Time": "11:19:53",
+    "Eclipse Type": "T",
+    "Location": "South Pacific",
+    "Latitude": "-21",
+    "Longitude": "-170",
+    "Total Eclipse Duration (m)": 14.5
+  },
+  {
+    "Date": "2021 November 19",
+    "Eclipse Time": "9:04:06",
+    "Eclipse Type": "P",
+    "Location": "Pacific Ocean",
+    "Latitude": "19",
+    "Longitude": "-139",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2022 May 16",
+    "Eclipse Time": "4:12:42",
+    "Eclipse Type": "T-",
+    "Location": "Vallegrande, Bolivia",
+    "Latitude": "-19",
+    "Longitude": "-64",
+    "Total Eclipse Duration (m)": 84.9
+  },
+  {
+    "Date": "2022 November 8",
+    "Eclipse Time": "11:00:22",
+    "Eclipse Type": "T+",
+    "Location": "Pacific Ocean",
+    "Latitude": "17",
+    "Longitude": "-169",
+    "Total Eclipse Duration (m)": 85
+  },
+  {
+    "Date": "2023 May 5",
+    "Eclipse Time": "17:24:05",
+    "Eclipse Type": "N",
+    "Location": "Indian Ocean",
+    "Latitude": "-17",
+    "Longitude": "98",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2023 October 28",
+    "Eclipse Time": "20:15:18",
+    "Eclipse Type": "P",
+    "Location": "Gulf of Aden",
+    "Latitude": "14",
+    "Longitude": "52",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2024 March 25",
+    "Eclipse Time": "7:13:59",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "-1",
+    "Longitude": "-106",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2024 September 18",
+    "Eclipse Time": "2:45:25",
+    "Eclipse Type": "P",
+    "Location": "Araioses, Região Geográfica Intermediária de São Luís, Brazil",
+    "Latitude": "-3",
+    "Longitude": "-42",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2025 March 14",
+    "Eclipse Time": "6:59:56",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "3",
+    "Longitude": "-102",
+    "Total Eclipse Duration (m)": 65.4
+  },
+  {
+    "Date": "2025 September 7",
+    "Eclipse Time": "18:12:58",
+    "Eclipse Type": "T",
+    "Location": "Indian Ocean",
+    "Latitude": "-6",
+    "Longitude": "87",
+    "Total Eclipse Duration (m)": 82.1
+  },
+  {
+    "Date": "2026 March 3",
+    "Eclipse Time": "11:34:52",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "6",
+    "Longitude": "-171",
+    "Total Eclipse Duration (m)": 58.3
+  },
+  {
+    "Date": "2026 August 28",
+    "Eclipse Time": "4:14:04",
+    "Eclipse Type": "P",
+    "Location": "Microrregião Porto Velho, Região Geográfica Intermediária de Porto Velho, Brazil",
+    "Latitude": "-9",
+    "Longitude": "-63",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2027 February 20",
+    "Eclipse Time": "23:14:06",
+    "Eclipse Type": "N",
+    "Location": "Datchéka, Mayo-Danay, Cameroon",
+    "Latitude": "10",
+    "Longitude": "15",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2027 July 18",
+    "Eclipse Time": "16:04:09",
+    "Eclipse Type": "Ne",
+    "Location": "Nullagine, Shire Of East Pilbara, Western Australia, Australia",
+    "Latitude": "-22",
+    "Longitude": "121",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2027 August 17",
+    "Eclipse Time": "7:14:59",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "-12",
+    "Longitude": "-108",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2028 January 12",
+    "Eclipse Time": "4:14:13",
+    "Eclipse Type": "P",
+    "Location": "Sargasso Sea",
+    "Latitude": "23",
+    "Longitude": "-61",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2028 July 6",
+    "Eclipse Time": "18:20:57",
+    "Eclipse Type": "P",
+    "Location": "Indian Ocean",
+    "Latitude": "-23",
+    "Longitude": "86",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2028 December 31",
+    "Eclipse Time": "16:53:15",
+    "Eclipse Type": "T",
+    "Location": "Jinling, Nanning, Guangxi, China",
+    "Latitude": "23",
+    "Longitude": "108",
+    "Total Eclipse Duration (m)": 71.3
+  },
+  {
+    "Date": "2029 June 26",
+    "Eclipse Time": "3:23:22",
+    "Eclipse Type": "T+",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "23",
+    "Longitude": "-50",
+    "Total Eclipse Duration (m)": 101.9
+  },
+  {
+    "Date": "2029 December 20",
+    "Eclipse Time": "22:43:12",
+    "Eclipse Type": "T",
+    "Location": "Murzuq, Libya",
+    "Latitude": "23",
+    "Longitude": "19",
+    "Total Eclipse Duration (m)": 53.7
+  },
+  {
+    "Date": "2030 June 15",
+    "Eclipse Time": "18:34:34",
+    "Eclipse Type": "P",
+    "Location": "Indian Ocean",
+    "Latitude": "-23",
+    "Longitude": "82",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2030 December 9",
+    "Eclipse Time": "22:28:51",
+    "Eclipse Type": "N",
+    "Location": "Kufra, Libya",
+    "Latitude": "22",
+    "Longitude": "21",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2031 May 7",
+    "Eclipse Time": "3:52:02",
+    "Eclipse Type": "N",
+    "Location": "Municipio San Matías, Provincia Ángel Sandóval, Bolivia",
+    "Latitude": "-18",
+    "Longitude": "-59",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2031 June 5",
+    "Eclipse Time": "11:45:17",
+    "Eclipse Type": "N",
+    "Location": "South Pacific",
+    "Latitude": "-21",
+    "Longitude": "-176",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2031 October 30",
+    "Eclipse Time": "7:46:45",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "15",
+    "Longitude": "-121",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2032 April 25",
+    "Eclipse Time": "15:14:51",
+    "Eclipse Type": "T",
+    "Location": "Northern Territory, Tipperary, Victoria Daly Region, Australia",
+    "Latitude": "-14",
+    "Longitude": "131",
+    "Total Eclipse Duration (m)": 65.5
+  },
+  {
+    "Date": "2032 October 18",
+    "Eclipse Time": "19:03:40",
+    "Eclipse Type": "T",
+    "Location": "Indian Ocean",
+    "Latitude": "10",
+    "Longitude": "71",
+    "Total Eclipse Duration (m)": 47.1
+  },
+  {
+    "Date": "2033 April 14",
+    "Eclipse Time": "19:13:51",
+    "Eclipse Type": "T",
+    "Location": "Indian Ocean",
+    "Latitude": "-9",
+    "Longitude": "72",
+    "Total Eclipse Duration (m)": 49.2
+  },
+  {
+    "Date": "2033 October 8",
+    "Eclipse Time": "10:56:23",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "6",
+    "Longitude": "-167",
+    "Total Eclipse Duration (m)": 78.8
+  },
+  {
+    "Date": "2034 April 3",
+    "Eclipse Time": "19:06:59",
+    "Eclipse Type": "N",
+    "Location": "Indian Ocean",
+    "Latitude": "-5",
+    "Longitude": "75",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2034 September 28",
+    "Eclipse Time": "2:47:37",
+    "Eclipse Type": "P",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "1",
+    "Longitude": "-44",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2035 February 22",
+    "Eclipse Time": "9:06:12",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "9",
+    "Longitude": "-133",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2035 August 19",
+    "Eclipse Time": "1:12:15",
+    "Eclipse Type": "P",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-12",
+    "Longitude": "-17",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2036 February 11",
+    "Eclipse Time": "22:13:06",
+    "Eclipse Type": "T",
+    "Location": "Sheikan, Sudan",
+    "Latitude": "14",
+    "Longitude": "31",
+    "Total Eclipse Duration (m)": 74.5
+  },
+  {
+    "Date": "2036 August 7",
+    "Eclipse Time": "2:52:32",
+    "Eclipse Type": "T+",
+    "Location": "Pedra Azul - MG, 39970-000, Brazil",
+    "Latitude": "-16",
+    "Longitude": "-41",
+    "Total Eclipse Duration (m)": 95.3
+  },
+  {
+    "Date": "2037 January 31",
+    "Eclipse Time": "14:01:38",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "18",
+    "Longitude": "153",
+    "Total Eclipse Duration (m)": 63.7
+  },
+  {
+    "Date": "2037 July 27",
+    "Eclipse Time": "4:09:53",
+    "Eclipse Type": "P",
+    "Location": "Lagerenza 4 de Mayo, Bahía Negra, Alto Paraguay, Paraguay",
+    "Latitude": "-20",
+    "Longitude": "-60",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2038 January 21",
+    "Eclipse Time": "3:49:52",
+    "Eclipse Type": "N",
+    "Location": "North Atlantic Ocean",
+    "Latitude": "21",
+    "Longitude": "-54",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2038 June 17",
+    "Eclipse Time": "2:45:02",
+    "Eclipse Type": "N",
+    "Location": "Campos dos Goytacazes, Região Geográfica Intermediária de Campos dos Goytacazes, Brazil",
+    "Latitude": "-22",
+    "Longitude": "-41",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2038 July 16",
+    "Eclipse Time": "11:35:56",
+    "Eclipse Type": "N",
+    "Location": "South Pacific",
+    "Latitude": "-23",
+    "Longitude": "-172",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2038 December 11",
+    "Eclipse Time": "17:45:00",
+    "Eclipse Type": "N",
+    "Location": "Saiha, - 796911, Mizoram, India",
+    "Latitude": "22",
+    "Longitude": "93",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2039 June 6",
+    "Eclipse Time": "18:54:25",
+    "Eclipse Type": "P",
+    "Location": "Indian Ocean",
+    "Latitude": "-22",
+    "Longitude": "77",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2039 November 30",
+    "Eclipse Time": "16:56:28",
+    "Eclipse Type": "P",
+    "Location": "Sông Mã District, Vietnam",
+    "Latitude": "21",
+    "Longitude": "104",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2040 May 26",
+    "Eclipse Time": "11:46:22",
+    "Eclipse Type": "T-",
+    "Location": "South Pacific",
+    "Latitude": "-21",
+    "Longitude": "-177",
+    "Total Eclipse Duration (m)": 92.2
+  },
+  {
+    "Date": "2040 November 18",
+    "Eclipse Time": "19:04:40",
+    "Eclipse Type": "T+",
+    "Location": "Arabian Sea",
+    "Latitude": "20",
+    "Longitude": "70",
+    "Total Eclipse Duration (m)": 87.8
+  },
+  {
+    "Date": "2041 May 16",
+    "Eclipse Time": "0:43:03",
+    "Eclipse Type": "P",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-20",
+    "Longitude": "-12",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2041 November 8",
+    "Eclipse Time": "4:35:05",
+    "Eclipse Type": "P",
+    "Location": "Caribbean Sea",
+    "Latitude": "18",
+    "Longitude": "-73",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2042 April 5",
+    "Eclipse Time": "14:30:11",
+    "Eclipse Type": "N",
+    "Location": "Madang, Papua New Guinea",
+    "Latitude": "-5",
+    "Longitude": "144",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2042 September 29",
+    "Eclipse Time": "10:45:47",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "2",
+    "Longitude": "-163",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2043 March 25",
+    "Eclipse Time": "14:32:04",
+    "Eclipse Type": "T",
+    "Location": "Papua New Guinea",
+    "Latitude": "-2",
+    "Longitude": "144",
+    "Total Eclipse Duration (m)": 53.4
+  },
+  {
+    "Date": "2043 September 19",
+    "Eclipse Time": "1:51:50",
+    "Eclipse Type": "T",
+    "Location": "South Atlantic Ocean",
+    "Latitude": "-2",
+    "Longitude": "-29",
+    "Total Eclipse Duration (m)": 71.7
+  },
+  {
+    "Date": "2044 March 13",
+    "Eclipse Time": "19:38:33",
+    "Eclipse Type": "T",
+    "Location": "Indian Ocean",
+    "Latitude": "2",
+    "Longitude": "68",
+    "Total Eclipse Duration (m)": 66.4
+  },
+  {
+    "Date": "2044 September 7",
+    "Eclipse Time": "11:20:44",
+    "Eclipse Type": "T",
+    "Location": "Pacific Ocean",
+    "Latitude": "-5",
+    "Longitude": "-171",
+    "Total Eclipse Duration (m)": 33.9
+  },
+  {
+    "Date": "2045 March 3",
+    "Eclipse Time": "7:43:26",
+    "Eclipse Type": "N",
+    "Location": "Pacific Ocean",
+    "Latitude": "6",
+    "Longitude": "-113",
+    "Total Eclipse Duration (m)": "-"
+  },
+  {
+    "Date": "2045 August 27",
+    "Eclipse Time": "13:54:50",
+    "Eclipse Type": "N",
+    "Location": "Losuia District, Papua New Guinea",
+    "Latitude": "-9",
+    "Longitude": "152",
+    "Total Eclipse Duration (m)": "-"
+  }
+
+]
